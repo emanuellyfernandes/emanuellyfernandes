@@ -4,7 +4,7 @@
 ##
 
 <ul>
-<li>:computer: Desenvolvedora Web</li>
+<li>:computer: Desenvolvedora web em ascenção</li>
 <li>:scroll: Cursando Análise e Desenvolvimento de Sistemas</li>
 <li>:books: Estudando React, NodeJs e Java</li>
 
